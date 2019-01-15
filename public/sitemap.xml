@@ -5,6 +5,51 @@
     
     <url>
     
+      <loc>/post/its-only-iraq/</loc>
+      <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/rachel/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/investment_opportunity/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/grandma/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/fear_and_loathing_in_conway_nh/</loc>
+      <lastmod>2018-08-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2018-06-23T21:13:14-05:00</lastmod>
     </url>
@@ -133,8 +178,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/tags/family/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,8 +188,48 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/tags/funny/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/heartbreak/</loc>
+      <lastmod>2018-08-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/life/</loc>
+      <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/life-is-serious/</loc>
+      <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/memoir/</loc>
+      <lastmod>2018-08-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -155,16 +240,6 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/plot/</loc>
-      <lastmod>2018-06-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,8 +288,18 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
-      <lastmod>2018-06-23T21:13:14-05:00</lastmod>
+      <loc>/tags/sad/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/stupid/</loc>
+      <lastmod>2018-08-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,6 +310,46 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2018-06-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2018-06-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     

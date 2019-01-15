@@ -232,7 +232,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//https://twitter.com/mddidomenico/"
+    link = "https://twitter.com/mddidomenico/"
 
   [[params.social]]
     icon = "google-scholar"

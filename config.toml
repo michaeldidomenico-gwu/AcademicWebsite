@@ -242,7 +242,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/michaeldidomenico-gwu"
+    link = "//github.com/michaeldidomenico"
 
 
 # Navigation Links

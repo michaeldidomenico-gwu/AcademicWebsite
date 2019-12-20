@@ -15,4 +15,4 @@ image = ""
 caption = ""
 +++
 
-{{< gallery album="photos" >}}
+gallery album="photos"

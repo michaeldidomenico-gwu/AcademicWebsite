@@ -9,10 +9,10 @@ highlight = false
 #   1 = Detailed
 list_format = 1
 
-{{< gallery album="photos" >}}
-
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
 caption = ""
 +++
+
+{{< gallery album="photos" >}}
